@@ -1,5 +1,4 @@
-
-#**LONGITUDINAL GRAPH-TRANSFORMER NETWORK FOR PERSONALISED PREDICTION OF MILD COGNITIVE IMPAIRMENT TO ALZHEIMER'S DISEASE CONVERSION**
+**LONGITUDINAL GRAPH-TRANSFORMER NETWORK FOR PERSONALISED PREDICTION OF MILD COGNITIVE IMPAIRMENT TO ALZHEIMER'S DISEASE CONVERSION**
 
 > **MSc Dissertation Project — University of Liverpool (COMP702, 2025/26)**  
 > Predicting *when* a patient with Mild Cognitive Impairment will convert to Alzheimer's Disease using longitudinal clinical data, population graph reasoning, and survival analysis.
