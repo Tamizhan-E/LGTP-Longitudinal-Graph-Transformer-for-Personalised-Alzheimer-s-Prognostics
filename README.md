@@ -224,9 +224,9 @@ LGTP is designed as a **clinical decision support tool** — predictions must al
 ## 👤 Author
 
 **Tamizhan Elango**  
-MSc Computer Science — University of Liverpool (2025/26)  
-🔗 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)  
-📧 your-email@liverpool.ac.uk
+MSc Advanced Data Science and Artificial Intelligence — University of Liverpool (2025/26)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tamizhan-e-cse/)  
+📧 tamizhan2603@gmail.com
 
 *Supervised by Dr Blaine Keetch — School of Computer Science and Informatics, University of Liverpool*
 
