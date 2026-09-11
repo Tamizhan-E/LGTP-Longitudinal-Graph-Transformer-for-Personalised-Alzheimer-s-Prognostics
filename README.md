@@ -203,16 +203,6 @@ CDR-SB ranking first is consistent with its role as the primary endpoint in Alzh
 
 ---
 
-## 📚 Key References
-
-1. Katzman et al. (2018) — *DeepSurv: Personalised Treatment Recommender System Using a Cox Proportional Hazards Deep Neural Network*, BMC Medical Research Methodology
-2. Brody et al. (2022) — *How Attentive are Graph Attention Networks?*, ICLR
-3. Gal & Ghahramani (2016) — *Dropout as a Bayesian Approximation*, ICML
-4. Lundberg & Lee (2017) — *A Unified Approach to Interpreting Model Predictions*, NeurIPS
-5. Kim et al. (2024) — *Prediction of progression from MCI to Alzheimer's disease with longitudinal and multimodal data*, Frontiers in Aging Neuroscience
-
----
-
 ## ⚠️ Ethical Note
 
 ADNI data is used under an approved Data Use Agreement for non-commercial academic research. No participant re-identification was attempted. All data is handled in compliance with the ADNI Data Use Agreement.
